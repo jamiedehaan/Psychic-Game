@@ -9,3 +9,5 @@ Your Guesses So Far: the specific letters that the user typed - these are displa
 
 When the user wins, the Wins counter is increased and the game starts over.
 When the user loses, the Losses counter is increased and the game starts over.
+
+https://jamiedehaan.github.io/Psychic-Game/
